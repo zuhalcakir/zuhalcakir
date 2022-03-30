@@ -1,14 +1,12 @@
-### Hi there 👋
-
 <h2>Hi! I'm Zuhal Cakir! </h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/zuhal_cakir?label=Follow)](https://twitter.com/intent/follow?screen_name=zuhal_cakir)
-[![Linkedin: suneeta-mall](https://img.shields.io/badge/-suneetamall-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/suneeta-mall-a6a0507/)](https://www.linkedin.com/in/suneeta-mall-a6a0507/)
-![GitHub followers](https://img.shields.io/github/followers/suneeta-mall?label=Follow&style=social)
-[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://suneeta-mall.github.io/)](https://suneeta-mall.github.io/)
-[![gscholar](https://img.shields.io/badge/Scholar-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://scholar.google.com.au/citations?hl=en&amp;user=WD712CUAAAAJ)](https://scholar.google.com.au/citations?hl=en&amp;user=WD712CUAAAAJ)
+[![Linkedin: zcakir](https://img.shields.io/badge/-zcakir-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zcakir/)](https://www.linkedin.com/in/zcakir/)
+![GitHub followers](https://img.shields.io/github/followers/zuhalcakir?label=Follow&style=social)
+[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://zuhal.xyz/en/)](https://zuhal.xyz/en/)
+<!--[![gscholar](https://img.shields.io/badge/Scholar-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://scholar.google.com.au/citations?hl=en&amp;user=WD712CUAAAAJ)](https://scholar.google.com.au/citations?hl=en&amp;user=WD712CUAAAAJ)-->
 
 
 <br/>
