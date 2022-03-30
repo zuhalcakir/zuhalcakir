@@ -11,13 +11,15 @@
 
 <br/>
 <p>
-I am passionate about solving real-world problems with engineering, data, science, and machine learning. I hold a Ph.D. in applied science and have a computer science engineering background. I offer extensive distributed, scalable computing and machine learning experience from IBM Software Labs, Expedita, USyd, and Nearmap. 
+Chemical Engineering Ph.D. candidate passionate about material & molecule discovery for catalysis and interfacial science by developing detailed molecular-level modeling and understanding. My professional goal is to leverage my expertise in chemical engineering, enable reliable design decisions, and facilitate transferrable applications through interdisciplinary collaborations.
+</p>
 
+<!--
 I currently lead the development of <a href="https://www.nearmap.com">Nearmap's</a> AI model production system that produces high-quality AI data sets and deep learning models. 
   
 I author for [O'Reilly](https://www.oreilly.com/pub/au/8214) and [Towards data science blogs](https://medium.com/@suneetamall). Ocasationally I also blog [@github](https://suneeta-mall.github.io/). 
 </p>
-
+-->
 <!--
 **zuhalcakir/zuhalcakir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
