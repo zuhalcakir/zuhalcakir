@@ -1,4 +1,5 @@
-<h2>Hi! I'm Zuhal Cakir! </h2>
+<h1>Hi! I'm Zuhal Cakir! </h1>
+<h3 align="center">Ph. D. Candidate</h3>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 
