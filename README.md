@@ -1,5 +1,5 @@
-<h1>Hi! I'm Zuhal Cakir! </h1>
-<h3>Ph. D. Candidate</h3>
+<h2>Hi! I'm Zuhal Cakir! </h2>
+<h3>Ph. D. Candidate </h3>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 
@@ -9,6 +9,11 @@
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://zuhal.xyz/en/)](https://zuhal.xyz/en/)
 <!--[![gscholar](https://img.shields.io/badge/Scholar-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://scholar.google.com.au/citations?hl=en&amp;user=WD712CUAAAAJ)](https://scholar.google.com.au/citations?hl=en&amp;user=WD712CUAAAAJ)-->
 
+#### Areas of Expertise
+- Data Science
+- Machine Learning
+- Cheminformatics
+- Computational Heterogeneous catalysis
 
 <br/>
 <p>
