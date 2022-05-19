@@ -1,6 +1,6 @@
 <h2>Hi! I'm Zuhal Cakir! </h2>
 <h3>Ph. D. Candidate </h3>
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+
 
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/zuhal_cakir?label=Follow)](https://twitter.com/intent/follow?screen_name=zuhal_cakir)
@@ -19,7 +19,7 @@
 <p>
 Chemical Engineering Ph.D. candidate passionate about material & molecule discovery for catalysis and interfacial science by developing detailed molecular-level modeling and understanding. My professional goal is to leverage my expertise in chemical engineering, enable reliable design decisions, and facilitate transferrable applications through interdisciplinary collaborations.
 </p>
-
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <!--
 I currently lead the development of <a href="https://www.nearmap.com">Nearmap's</a> AI model production system that produces high-quality AI data sets and deep learning models. 
   
