@@ -1,8 +1,6 @@
 <h2>Hi! I'm Zuhal Cakir! </h2>
 <h3>Ph. D. Candidate </h3>
 
-
-
 [![Twitter Follow](https://img.shields.io/twitter/follow/zuhal_cakir?label=Follow)](https://twitter.com/intent/follow?screen_name=zuhal_cakir)
 [![Linkedin: zcakir](https://img.shields.io/badge/-zcakir-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zcakir/)](https://www.linkedin.com/in/zcakir/)
 ![GitHub followers](https://img.shields.io/github/followers/zuhalcakir?label=Follow&style=social)
@@ -11,11 +9,13 @@
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-#### Areas of Expertise
-- Data Science
-- Machine Learning
-- Cheminformatics
-- Computational Heterogeneous catalysis
+<h5>Areas of Expertise</h5>
+<ul>
+  <li>Data Science</li>
+  <li>Machine Learning</li>
+  <li>Cheminformatics</li>
+  <li>Computational Heterogeneous catalysis</li>
+</ul>
 
 <br/>
 <p>
