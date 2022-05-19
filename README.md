@@ -8,7 +8,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/zuhalcakir?label=Follow&style=social)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://zuhal.xyz/en/)](https://zuhal.xyz/en/)
 <!--[![gscholar](https://img.shields.io/badge/Scholar-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://scholar.google.com.au/citations?hl=en&amp;user=WD712CUAAAAJ)](https://scholar.google.com.au/citations?hl=en&amp;user=WD712CUAAAAJ)-->
-
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 #### Areas of Expertise
 - Data Science
 - Machine Learning
@@ -19,7 +19,7 @@
 <p>
 Chemical Engineering Ph.D. candidate passionate about material & molecule discovery for catalysis and interfacial science by developing detailed molecular-level modeling and understanding. My professional goal is to leverage my expertise in chemical engineering, enable reliable design decisions, and facilitate transferrable applications through interdisciplinary collaborations.
 </p>
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+
 <!--
 I currently lead the development of <a href="https://www.nearmap.com">Nearmap's</a> AI model production system that produces high-quality AI data sets and deep learning models. 
   
